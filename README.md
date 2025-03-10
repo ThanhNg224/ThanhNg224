@@ -1,36 +1,17 @@
-## Hi there 👋
+## Hi there 👋  
 
-I'm Nguyễn Phúc Thành, a passionate **Frontend & Mobile Developer** 🚀 from Vietnam. I love exploring **ReactJS, React Native**, and now diving deep into **Flutter & Java** during my internship.  
+I'm **Kai** (Nguyễn Thanh), a **Frontend & Mobile Developer** 🚀 from Vietnam. Currently interning in **Flutter & Java**, I love building sleek **web & mobile apps** and exploring **AI & NLP**.  
 
-### 🔭 Currently Working On  
-- Crafting sleek UI/UX with **ReactJS & React Native**  
-- Developing **Flutter** apps & mastering **Java**  
-- Exploring **Jetson Nano** for AI-powered projects  
-- Building **NLP models for Vietnamese news classification**  
-
-### 🌱 Currently Learning  
-- Advancing in **Flutter & Java** for mobile development  
-- Strengthening my knowledge of **Node.js & Flask API**  
-- Improving my **English skills**  
-
-### 👯 Looking to Collaborate On  
-- **Web and mobile apps** that push the boundaries of UI/UX  
-- **Flutter projects** for cross-platform development  
-- **AI-powered projects**, especially in NLP  
-- Any exciting **open-source projects**!  
-
-### 💬 Ask Me About  
-- **Frontend development** (ReactJS, Angular, React Native, Flutter)  
-- **Mobile development** (Android/iOS, Flutter, Java)  
-- **NLP & AI projects**  
+### 🔭 What I Do  
+- **Frontend:** ReactJS, Angular  
+- **Mobile:** React Native, Flutter, Java  
+- **Backend:** Node.js, Flask  
+- **AI:** NLP, Jetson Nano  
 
 ### ⚡ Fun Facts  
-- 🏀 I love playing **basketball** like **Kyrie Irving**  
-- ⚽ Big football fan, favorite position: **Winger**   
+🏀 Basketball like **Kyrie Irving** | ⚽ Winger at heart | 🎬 Love **dystopian movies**  
 
-### 📫 How to Reach Me  
-- Email: **your-email@gmail.com**  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)  
-- GitHub: **[ThanhNg224](https://github.com/ThanhNg224)**  
+### 📫 Connect  
+[Email](mailto:your-email@gmail.com) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/ThanhNg224)  
 
-🚀 *Let's build something amazing together!*  
+🚀 *Let’s build something awesome!*  
