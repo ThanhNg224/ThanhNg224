@@ -1,5 +1,4 @@
-## Hi there 👋  
-
+ ## [![Hi There](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Kai!)](https://github.com/ThanhNg224)
 I'm Nguyen Phuc Thanh, a **Frontend & Mobile Developer** 🚀 from Vietnam. Currently interning in **Flutter & Java**, I love building sleek **web & mobile apps** and exploring **AI & NLP**.  
 ### 🔭 What I Do  
 - **Frontend:** ReactJS, Angular  
