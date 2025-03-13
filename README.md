@@ -1,11 +1,9 @@
  ## [![🔥 Hi There!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Thanh!+🚀;Frontend+%26+Mobile+Dev;Flutter+%7C+React+%7C+More...;Let's+Build+Something+Awesome!)](https://github.com/ThanhNg224)
-
 I'm Nguyen Phuc Thanh, a **Frontend & Mobile Developer** 🚀 from Vietnam. Currently interning in **Flutter & Java**, I love building sleek **web & mobile apps** and exploring **AI & NLP**.  
 ### 🔭 What I Do  
-- **Frontend:** ReactJS, Angular  
-- **Mobile:** React Native, Flutter, Java  
-- **Backend:** Node.js, Flask  
-- **AI:** NLP, Jetson Nano  
+- **Frontend:** ReactJS, Angular                      |                   - **Backend:** Node.js, Flask
+- **Mobile:** React Native, Flutter, Java             |                   - **Game:** Unity, Gdev
+- **3D:** Maya, Blender                               |                   - **AI:** NLP, DIP
 ### ⚡ Fun Facts  
 🏀 Basketball like **Kyrie Irving** | ⚽ Winger at heart | 🎬 Love **dystopian movies**  
 ### 📫 Connect  
