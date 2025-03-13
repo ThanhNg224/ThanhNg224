@@ -1,4 +1,4 @@
- ## [![🔥 Hi There!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Kai!+🚀;Frontend+%26+Mobile+Dev;Flutter+%7C+React+%7C+More...;Let's+Build+Something+Awesome!)](https://github.com/ThanhNg224)
+ ## [![🔥 Hi There!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Thanh!+🚀;Frontend+%26+Mobile+Dev;Flutter+%7C+React+%7C+More...;Let's+Build+Something+Awesome!)](https://github.com/ThanhNg224)
 
 I'm Nguyen Phuc Thanh, a **Frontend & Mobile Developer** 🚀 from Vietnam. Currently interning in **Flutter & Java**, I love building sleek **web & mobile apps** and exploring **AI & NLP**.  
 ### 🔭 What I Do  
