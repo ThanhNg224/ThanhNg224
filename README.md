@@ -4,8 +4,7 @@ I'm Nguyen Phuc Thanh, a **Frontend & Mobile Developer** 🚀 from Vietnam and a
 - **Frontend:** ReactJS, Angular                      |                   - **Backend:** Node.js, Flask
 - **Mobile:** React Native, Flutter, Java             |                   - **Game:** Unity, Gdev
 - **3D:** Maya, Blender                               |                   - **AI:** NLP, DIP
-### ⚡ Fun Facts  
-🏀 Basketball like **Kyrie Irving** | ⚽ Winger at heart | Siuuuuuu
+ Siuuuuuu
 ### 📫 Connect  
 [Email](mailto:thanhng224@gmail.com) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/ThanhNg224)  
 🚀 *Let’s build something awesome!*  
