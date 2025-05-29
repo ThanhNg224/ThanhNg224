@@ -8,7 +8,7 @@ I've worked on real-world projects including:
 - ☕ **Coffee Shop Platform** (Fullstack + admin dashboard)
 
 I'm all about building clean UI, reactive flows, and scalable architecture (MVVM, Firebase, RESTful APIs).  
-Always learning, always shipping. Siuuuu! 🦾
+Always learning, always shipping. Siuuuuuu! 🦾
 
 ---
 
