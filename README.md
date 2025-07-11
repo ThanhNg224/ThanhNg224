@@ -7,7 +7,7 @@ I specialize in building **robust Android native** and **Flutter apps**, while a
 
 Throughout my journey, I've worked on a range of products — from **enterprise-grade verification systems** to **educational apps**, internal dashboards, and real-time features. I enjoy solving real-world problems with solid architecture and beautiful UI.
 
-> Always learning. Always building. Always leveling up. 🚀
+> Always learning. Always building. Always leveling up. Siuu 🚀
 
 ---
 
