@@ -1,4 +1,4 @@
-## [![🔥 Welcome!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hey+there!+👋;I'm+Thanh,+a+Dev+from+Vietnam!+🚀;Mobile+%26+Web+Builder;Flutter+%7C+React+%7C+Firebase+%7C+More...;Let's+ship+cool+stuff!)](https://github.com/ThanhNg224)
+## [![🔥 Welcome!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hey+there!+👋;I'm+Thanh,+a+Dev+from+Vietnam!+🚀;Mobile+%26+Web+Builder;Flutter+%7C+React+%7C+Odoo+%7C+More...;Let's+ship+cool+stuff!)](https://github.com/ThanhNg224)
 
 I'm **Nguyen Phuc Thanh** — a passionate **Full-stack Mobile & Web Developer** from Vietnam 🇻🇳, with hands-on experience across **mobile apps**, **web platforms**, and backend systems.
 👉 Check out my personal portfolio: [thanhng224.github.io/react-portfolio](https://thanhng224.github.io/react-portfolio/)
