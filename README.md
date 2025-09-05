@@ -13,10 +13,10 @@ Throughout my journey, I've worked on a range of products — from **enterprise-
 
 ### 🔧 Tech Stack
 
-- **Mobile:** Flutter, Kotlin, Android Native, React Native  
+- **Mobile:** Flutter, Android Native (Kotlin & Java), React Native  
 - **Frontend:** ReactJS, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Flask, Firebase  
-- **Database:** Firestore, SQLServer, MySQL  
+- **Database:** Firestore, SQLServer, MySQL, MongoDB  
 - **Others:** Unity, Git, Blender, Python
 
 ---
