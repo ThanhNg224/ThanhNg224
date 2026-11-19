@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="210" viewBox="0 0 768 192" role="img" aria-labelledby="title description">
+  <title id="title">Hi, I’m Thanh</title>
+  <desc id="description">A rotating banner for native Android, Flutter apps, and web dashboards.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101D20"/>
+      <stop offset="1" stop-color="#122B27"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="84%" cy="50%" r="52%">
+      <stop stop-color="#2D8367" stop-opacity=".52"/>
+      <stop offset="1" stop-color="#2D8367" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule">
+      <stop stop-color="#72E0B6"/>
+      <stop offset="1" stop-color="#72E0B6" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="768" height="192" rx="20"/></clipPath>
+    <clipPath id="label-window"><rect x="61" y="108" width="390" height="43"/></clipPath>
+    <clipPath id="icon-window"><rect x="598" y="50" width="92" height="92" rx="22"/></clipPath>
+
+    <g id="android">
+      <path d="M-25 15v-4a25 25 0 0 1 50 0v4Z"/>
+      <path d="m-16-10-6-10m38 10 6-10"/>
+      <path d="M-10 5h.1M10 5h.1" stroke-width="5"/>
+    </g>
+    <g id="flutter">
+      <path d="M-24 1 0-23 24-23-12 13Z" fill="#83F3C6" stroke="none"/>
+      <path d="m-10 15 16-16h17L-1 23Z" fill="#5AC9AB" stroke="none"/>
+      <path d="m-1 6 22 17H4l-14-8Z" fill="#307D73" stroke="none"/>
+    </g>
+    <g id="web">
+      <path d="m-13-12-13 12 13 12m26-24 13 12-13 12M5-19l-10 38"/>
+    </g>
+  </defs>
+
+  <style>
+    .label {
+      fill: #83F3C6;
+      font: 600 27px ui-monospace, 'SF Mono', Consolas, monospace;
+    }
+    .animated-label { display: none; }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .static-label { display: none; }
+      .animated-label { display: inline; }
+      .reel { animation: roll 9s cubic-bezier(.45, 0, .25, 1) infinite; }
+    }
+
+    /* The label and icon reels share a 96-unit row height. */
+    @keyframes roll {
+      0%, 27% { transform: translateY(0); }
+      33.333%, 60.333% { transform: translateY(-96px); }
+      66.667%, 93.667% { transform: translateY(-192px); }
+      100% { transform: translateY(-288px); }
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="768" height="192" fill="url(#background)"/>
+    <rect width="768" height="192" fill="url(#glow)"/>
+    <g fill="none" stroke="#83F3C6" stroke-opacity=".18">
+      <circle cx="644" cy="96" r="62"/>
+      <circle cx="644" cy="96" r="81" stroke-dasharray="1 6" stroke-linecap="round"/>
+      <circle cx="644" cy="96" r="107"/>
+      <path d="M644 0v192M505 96h263"/>
+    </g>
+    <circle cx="585" cy="42" r="3" fill="#83F3C6" fill-opacity=".75"/>
+    <circle cx="730" cy="159" r="4" fill="#83F3C6" fill-opacity=".55"/>
+    <rect x="598.5" y="50.5" width="91" height="91" rx="22" fill="#122724" stroke="#83F3C6" stroke-opacity=".45"/>
+
+    <text x="36" y="91" fill="#F0F9F5" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">Hi, I’m Thanh</text>
+    <path d="m39 121 8 8-8 8" fill="none" stroke="#83F3C6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36 162h380" stroke="url(#rule)" stroke-opacity=".45"/>
+
+    <text class="label static-label" x="63" y="139">Android / Flutter / Web</text>
+    <g class="animated-label" clip-path="url(#label-window)">
+      <g class="label reel">
+        <text x="63" y="139">Native Android</text>
+        <text x="63" y="235">Flutter apps</text>
+        <text x="63" y="331">Web dashboards</text>
+        <text x="63" y="427">Native Android</text>
+      </g>
+    </g>
+
+    <g clip-path="url(#icon-window)">
+      <g class="reel" fill="none" stroke="#83F3C6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+        <use href="#android" x="644" y="96"/>
+        <use href="#flutter" x="644" y="192"/>
+        <use href="#web" x="644" y="288"/>
+        <use href="#android" x="644" y="384"/>
+      </g>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="767" height="191" rx="19.5" fill="none" stroke="#83F3C6" stroke-opacity=".26"/>
+</svg>
