@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="210" viewBox="0 0 768 192" role="img" aria-labelledby="title description">
   <title id="title">Hi, I’m Thanh</title>
-  <desc id="description">A rotating banner for native Android, Flutter apps, and web dashboards.</desc>
+  <desc id="description">A rotating banner for native Android, Flutter apps, web apps, and APIs.</desc>
   <defs>
     <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
       <stop stop-color="#101D20"/>
@@ -77,7 +77,7 @@
       <g class="label reel">
         <text x="63" y="139">Native Android</text>
         <text x="63" y="235">Flutter apps</text>
-        <text x="63" y="331">Web dashboards</text>
+        <text x="63" y="331">Web apps &amp; APIs</text>
         <text x="63" y="427">Native Android</text>
       </g>
     </g>

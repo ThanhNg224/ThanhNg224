@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="96" viewBox="0 0 250 96" role="img" aria-labelledby="title description">
+  <title id="title">FlutterCoreBase</title>
+  <desc id="description">Feature-first architecture with Riverpod and Freezed.</desc>
+  <style>
+    .panel { fill: #f4faf7; stroke: #bed7cd; }
+    .icon-tile { fill: #d8eee5; }
+    .icon { fill: none; stroke: #19654f; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+    .solid { fill: #19654f; stroke: none; }
+    .name { fill: #15483a; font: 650 15px system-ui, sans-serif; }
+    .copy { fill: #38544a; font: 13px system-ui, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .panel { fill: #132023; stroke: #305048; }
+      .icon-tile { fill: #1d3933; }
+      .icon { stroke: #84e4be; }
+      .solid { fill: #84e4be; }
+      .name { fill: #d7f6eb; }
+      .copy { fill: #afc9c0; }
+    }
+  </style>
+  <rect class="panel" x=".5" y=".5" width="249" height="95" rx="12"/>
+  <rect class="icon-tile" x="14" y="13" width="30" height="30" rx="8"/>
+  <g class="icon" transform="translate(20 19)"><path class="solid" d="M1 9.6 9.2 1.4h5L3.5 12.1 1 9.6Zm4.8 4.2 5.3-5.3h5l-7.1 7.1h5.4l1.4 1.4H9l-3.2-3.2Z"/></g>
+  <text class="name" x="53" y="33">FlutterCoreBase</text>
+  <text class="copy" x="15" y="62">Feature-first architecture</text>
+  <text class="copy" x="15" y="79">with Riverpod and Freezed.</text>
+</svg>
