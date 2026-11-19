@@ -1,28 +1,28 @@
-## [![🔥 Welcome!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hey+there!+👋;I'm+Thanh,+a+Dev+from+Vietnam!+🚀;Mobile+%26+Web+Builder;Flutter+%7C+React+%7C+Odoo+%7C+More...;Let's+ship+cool+stuff!)](https://github.com/ThanhNg224)
+# Hi, I’m Thanh
 
-I'm **Nguyen Phuc Thanh** — a passionate **Full-stack Mobile & Web Developer** from Vietnam 🇻🇳, with hands-on experience across **mobile apps**, **web platforms**, and backend systems.
-👉 Check out my personal portfolio: [thanhng224.github.io/react-portfolio](https://thanhng224.github.io/react-portfolio/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;duration=1450&amp;vCenter=true&amp;repeat=false&amp;width=290&amp;height=32&amp;lines=Android+%2F+Flutter+%2F+Web&amp;color=5EEAD4">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;duration=1450&amp;vCenter=true&amp;repeat=false&amp;width=290&amp;height=32&amp;lines=Android+%2F+Flutter+%2F+Web&amp;color=0F766E" width="290" height="32" alt="Android / Flutter / Web">
+</picture>
 
-I specialize in building **robust Android native** and **Flutter apps**, while also delivering clean frontend experiences with ReactJS and scalable APIs using Node.js or Flask.
+I’m a developer from Vietnam. I mostly build Android and Flutter apps, and sometimes the dashboards and APIs that go with them. I’ve worked on verification systems, education apps, and real-time device monitoring.
 
-Throughout my journey, I've worked on a range of products — from **enterprise-grade verification systems** to **educational apps**, internal dashboards, and real-time features. I enjoy solving real-world problems with solid architecture and beautiful UI.
+**[Portfolio ↗](https://thanhng224.github.io/react-portfolio/)** · [LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-ph%C3%BAc-th%C3%A0nh-a7a8b3355/) · [Email](mailto:thanhng224@gmail.com)
 
-> Always learning. Always building. Always leveling up. Siuuu 🚀
+## A few projects
 
----
+| Project | What it does |
+| --- | --- |
+| [Android device monitoring](https://github.com/ThanhNg224/device_management_full) | Tracks Android terminals in real time with a Kotlin app and a Next.js dashboard. |
+| [Jetpack Compose starter](https://github.com/ThanhNg224/kotlin-android-mvvm-template2) | A Kotlin starter with MVVM, Hilt, and Retrofit. |
+| [FlutterCoreBase](https://github.com/ThanhNg224/FlutterCoreBase) | A starting point for new Flutter apps. |
 
-### 🔧 Tech Stack
+<details>
+<summary>Tools I work with</summary>
 
-- **Mobile:** Flutter, Android Native (Kotlin & Java), React Native  
-- **Frontend:** ReactJS, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Flask, Firebase  
-- **Database:** Firestore, SQLServer, MySQL, MongoDB  
-- **Others:** Unity, Git, Blender, Python
+- **Mobile** · Kotlin, Java, Jetpack Compose, Flutter, React Native
+- **Web** · React, Next.js, Tailwind CSS
+- **Backend and data** · Node.js, Flask, Firebase, Firestore, SQL Server, MySQL, MongoDB
+- **Other tools** · Git, Python, Unity, Blender
 
----
-
-### 📫 Connect with me
-
-[📧 Email](mailto:thanhng224@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/your-profile) | [💻 GitHub](https://github.com/ThanhNg224)
-
-> 🧠 *Let’s create products that matter!*
+</details>
